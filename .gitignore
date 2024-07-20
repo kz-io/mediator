@@ -1,0 +1,11 @@
+dev/
+dev.ts
+docs/
+test-dir/
+deno.lock
+cov.lcov
+coverage/
+.DS_Store
+.idea
+.vim
+**/cov/

@@ -1,0 +1,19 @@
+{
+    "name": "Deno codespaces template",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "github.copilot",
+                "gruntfuggly.todo-tree",
+                "denoland.vscode-deno"
+            ],
+            "settings": {
+                "files.exclude": {
+                    "**/CODE_OF_CONDUCT.md": true,
+                    "**/LICENSE": true
+                }
+            }
+        }
+    },
+    "dockerFile": "Dockerfile"
+}
