@@ -67,7 +67,7 @@
       "LICENSE",
       "mod.ts",
       "**/*.ts",
-      "denoc.json",
+      "deno.jsonc",
       "deno.lock",
       "**/*.json"
     ],
