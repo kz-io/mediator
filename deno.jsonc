@@ -68,8 +68,7 @@
       "mod.ts",
       "**/*.ts",
       "deno.jsonc",
-      "deno.lock",
-      "**/*.json"
+      "deno.lock"
     ],
     "exclude": [
       "**/*.test.ts"
